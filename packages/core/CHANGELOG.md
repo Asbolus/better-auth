@@ -1,5 +1,13 @@
 # @better-auth/core
 
+## 1.6.12
+
+### Patch Changes
+
+- [#9727](https://github.com/better-auth/better-auth/pull/9727) [`83fa369`](https://github.com/better-auth/better-auth/commit/83fa3695e7cc0083ff8531f3a2b4101a2e56deff) Thanks [@bytaesu](https://github.com/bytaesu)! - Add `toCamelCase`, `toSnakeCase`, `toPascalCase`, and `toKebabCase` to `@better-auth/core/utils/string`.
+
+- [#9683](https://github.com/better-auth/better-auth/pull/9683) [`04303a9`](https://github.com/better-auth/better-auth/commit/04303a92acd6fd3cf9d5f5ab5901255e67526ad3) Thanks [@yb175](https://github.com/yb175)! - Widen Kysely peer dependency ranges to support both 0.28.x and 0.29.x.
+
 ## 1.6.11
 
 ### Patch Changes
